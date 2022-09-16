@@ -1,0 +1,34 @@
+{
+    "name": "PlayerInputs",
+    "maps": [
+        {
+            "name": "LandMap",
+            "id": "4facb56b-3ee2-4408-983b-4ad48960a1cc",
+            "actions": [
+                {
+                    "name": "LandActions",
+                    "type": "Button",
+                    "id": "b2af32b6-9bc3-4343-b03e-3888678b9bb3",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "319f82f9-d4ad-4b2c-95cf-d6ec93305f6b",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LandActions",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
